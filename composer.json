@@ -1,1 +1,10 @@
-{}
+{
+    "name": "admin/random_number_generator",
+    "authors": [
+        {
+            "name": "qcollinscode",
+            "email": "qcollins@qraynix.com"
+        }
+    ],
+    "require": {}
+}
