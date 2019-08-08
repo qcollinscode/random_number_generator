@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: none;
+}
+/* .app {
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+  transition-duration: 0.9s;
+} */
+
+.number-box {
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+p {
+  margin: 10px;
+  text-align: center;
+}
+
+.number {
+  font-size: 50px;
+}
+
+.button {
+  width: 30%;
+  padding: 30px;
+  font-size: 30px;
+}
